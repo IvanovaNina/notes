@@ -1,0 +1,4 @@
+./venv
+notes.json
+.idea/
+__pycache__/
